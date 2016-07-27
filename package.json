@@ -1,7 +1,7 @@
 {
-  "name": "react-hello-world",
+  "name": "react file upload
   "version": "1.0.0",
-  "description": "shashi's hello world program",
+  "description": "react file upload program",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
